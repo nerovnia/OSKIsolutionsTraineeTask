@@ -1,0 +1,167 @@
+[
+  {
+    "question": "What 1960s’ American pop group created the ‘surfin sound’?",
+    "options": [
+      "Supremes",
+      "Four Seasons",
+      "Beach Boys",
+      "Mamas & the Papas",
+      "Monkees"
+    ],
+    "answers": [
+      "Beach Boys"
+    ]
+  },
+  {
+    "question": "In what year did the Beatles first go to the USA?",
+    "options": [
+      "1961",
+      "1962",
+      "1963",
+      "1964",
+      "1965"
+    ],
+    "answers": [
+      "1964"
+    ]
+  },
+  {
+    "question": "Who was lead singer with the 1970s’ pop group Slade?",
+    "options": [
+      "Noddy Holder",
+      "Mick Jagger",
+      "David Bowie",
+      "Roger Daltrey",
+      "Robert Plant",
+      "Jim Morrison",
+      "Steven Tyler",
+      "Mick Hucknall"
+    ],
+    "answers": [
+      "Noddy Holder"
+    ]
+  },
+  {
+    "question": "What was Adele’s first record called?",
+    "options": [
+      "Rumour Has It",
+      "Don't You Remember",
+      "My Same",
+      "Turning Tables",
+      "If It Hadn't Been for Love",
+      "Take It All",
+      "Right as Rain",
+      "One and Only",
+      "Hometown Glory",
+      "Set Fire to the Rain",
+      "Lovesong",
+      "I'll Be Waiting",
+      "Chasing Pavements"
+    ],
+    "answers": [
+      "Hometown Glory"
+    ]
+  },
+  {
+    "question": "‘Future Nostalgia’ containing the single ‘Don’t Start Now’ is the second studio album from which English singer?",
+    "options": [
+      "Adele",
+      "Ed Sheeran",
+      "Sam Smith",
+      "Ellie Goulding",
+      "Rita Ora",
+      "Jess Glynne",
+      "Anne-Marie",
+      "Charli XCX",
+      "George Ezra",
+      "Jorja Smith",
+      "Dua Lipa"
+    ],
+    "answers": [
+      "Dua Lipa"
+    ]
+  },
+  {
+    "question": "What is the name of the band with the following members: John Deacon, Brian May, Freddie Mercury, Roger Taylor?",
+    "options": [
+      "Monarch's Sound",
+      "Sovereign Groove",
+      "Queen",
+      "Majesty's Melody",
+      "Emperor's Echo",
+      "Crowned Crescendo",
+      "Regal Rockers",
+      "Noble Notes"
+    ],
+    "answers": [
+      "Queen"
+    ]
+  },
+  {
+    "question": "Which singer was known amongst other things as ‘The King of Pop’ and ‘The Gloved One’?",
+    "options": [
+      "Elvis Presley",
+      "Freddie Mercury",
+      "John Lennon",
+      "Whitney Houston",
+      "Michael Jackson",
+      "Celine Dion"
+    ],
+    "answers": [
+      "Michael Jackson"
+    ]
+  },
+  {
+    "question": "Which American pop star had back to back 2015 chart success with singles ‘Sorry’ and ‘Love Yourself’?",
+    "options": [
+      "Shawn Mendes",
+      "Ed Sheeran",
+      "Zayn Malik",
+      "Justin Bieber",
+      "Charlie Puth",
+      "Harry Styles",
+      "The Weeknd",
+      "Ariana Grande",
+      "Selena Gomez",
+      "Taylor Swift",
+      "Dua Lipa"
+    ],
+    "answers": [
+      "Justin Bieber"
+    ]
+  },
+  {
+    "question": "‘Losing my religion ‘ was a hit for which alternative Rock Band in 1991?",
+    "options": [
+      "The Lumineers",
+      "Arcade Fire",
+      "Death Cab for Cutie",
+      "Modest Mouse",
+      "Vampire Weekend",
+      "Spoon",
+      "The Shins",
+      "The National",
+      "Wilco",
+      "R.E.M."
+    ],
+    "answers": [
+      "R.E.M."
+    ]
+  },
+  {
+    "question": "What song has the following lyrics: “Suddenly I’m not half the man I used to be. / There’s a shadow hanging over me.”?",
+    "options": [
+      "Hallelujah",
+      "Tears in Heaven",
+      "Wish You Were Here",
+      "Angie",
+      "Hotel California",
+      "Yesterday",
+      "Blackbird",
+      "Dust in the Wind"
+    ],
+    "answers": [
+      "Yesterday"
+    ]
+  }
+]

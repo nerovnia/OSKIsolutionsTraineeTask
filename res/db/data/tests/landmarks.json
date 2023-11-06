@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Giza Pyramid and the Great Sphinx",
+    "options": [
+      "Saudi Arabia",
+      "Sudan",
+      "India",
+      "Argentina",
+      "Egypt",
+      "Libya"
+    ],
+    "answers": [
+      "Egypt"
+    ]
+  },
+  {
+    "question": "Colosseum",
+    "options": [
+      "Italy",
+      "Greece",
+      "Kuwait",
+      "Cyprus",
+      "Spain",
+      "Turkey",
+      "Sudan"
+    ],
+    "answers": [
+      "Italy"
+    ]
+  },
+  {
+    "question": "Angkor Wat",
+    "options": [
+      "Jordan",
+      "India",
+      "Thailand",
+      "Iran",
+      "Kuwait",
+      "Laos",
+      "Vietnam",
+      "Cambodia"
+    ],
+    "answers": [
+      "Cambodia"
+    ]
+  },
+  {
+    "question": "Statue of Liberty",
+    "options": [
+      "Brazil",
+      "Mexico",
+      "United Kingdom",
+      "France",
+      "Egypt",
+      "United States",
+      "Australia"
+    ],
+    "answers": [
+      "United States"
+    ]
+  },
+  {
+    "question": "Sydney Harbour Bridge",
+    "options": [
+      "Australia",
+      "China",
+      "Kuwait",
+      "Australia",
+      "South Korea",
+      "New Zealand",
+      "Brazil"
+    ],
+    "answers": [
+      "Australia"
+    ]
+  },
+  {
+    "question": "Taj Mahal",
+    "options": [
+      "Turkey",
+      "Greece",
+      "South Korea",
+      "Iran",
+      "Saudi Arabia",
+      "Thailand",
+      "North Korea",
+      "India",
+      "Vietnam",
+      "Laos"
+    ],
+    "answers": [
+      "India"
+    ]
+  },
+  {
+    "question": "Juche Tower",
+    "options": [
+      "Thailand",
+      "Vietnam",
+      "Iran",
+      "Laos",
+      "North Korea",
+      "India",
+      "South Korea",
+      "Saudi Arabia"
+    ],
+    "answers": [
+      "North Korea"
+    ]
+  },
+  {
+    "question": "Water Towers",
+    "options": [
+      "Mexico",
+      "Argentina",
+      "Spain",
+      "Egypt",
+      "Iran",
+      "Japan",
+      "Germany",
+      "Kuwait"
+    ],
+    "answers": [
+      "Kuwait"
+    ]
+  },
+  {
+    "question": "Azadi Monument",
+    "options": [
+      "Mexico",
+      "Argentina",
+      "Spain",
+      "Egypt",
+      "Iran",
+      "Japan",
+      "Germany",
+      "Kuwait"
+    ],
+    "answers": [
+      "Iran"
+    ]
+  },
+  {
+    "question": "Stonehenge",
+    "options": [
+      "United States",
+      "Mexico",
+      "Australia",
+      "Spain",
+      "Brazil",
+      "United Kingdom"
+    ],
+    "answers": [
+      "United Kingdom"
+    ]
+  }
+]
