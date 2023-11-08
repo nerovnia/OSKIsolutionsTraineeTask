@@ -8,6 +8,14 @@ import App from './App.vue'
 import router from './router'
 
 const app = createApp(App)
+/*
+import AuthForm from './components/forms/Auth'
+
+export default {
+  name: 'App',
+  components: { AuthForm  }
+}
+*/
 
 app.use(router)
 
