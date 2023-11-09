@@ -7,6 +7,7 @@ const users = require("../data/demo/users");
 const tokenService = require("./token-service");
 const UserDto = require("../dtos/user-dto");
 require("dotenv").config();
+const errorMiddleware = require("../middlewares/error-middleware");
 
 class UserService {
   /***********************************************

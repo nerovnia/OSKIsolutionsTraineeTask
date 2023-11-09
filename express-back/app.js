@@ -16,6 +16,8 @@ const authRouter = require("./routes/auth.js");
 const userService = require("./service/user-service.js");
 const testService = require("./service/test-service.js");
 
+const errorMiddleware = require("./middlewares/error-middleware");
+
 const app = express();
 
 // Custom request tracing middleware
@@ -62,6 +64,8 @@ app.use(function (err, req, res, next) {
   res.status(err.status || 500);
   res.json({ message: err });
 });
+
+app.use(errorMiddleware);
 
 const initialize = () => {
   try {
