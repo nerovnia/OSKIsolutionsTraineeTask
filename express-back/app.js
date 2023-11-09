@@ -13,6 +13,9 @@ const indexRouter = require("./routes/index");
 const apiRouter = require("./routes/api.js");
 const authRouter = require("./routes/auth.js");
 
+const userService = require("./service/user-service.js");
+const testService = require("./service/test-service.js");
+
 const app = express();
 
 // Custom request tracing middleware
@@ -60,7 +63,14 @@ app.use(function (err, req, res, next) {
   res.json({ message: err });
 });
 
-const initialize = () => {};
+const initialize = () => {
+  try {
+    userService.fillUsers();
+    testService.fillTests();
+  } catch (err) {
+    console.log("Users and/or tests can't initializing in database!");
+  }
+};
 
 const connectToMongoDB = async () => {
   try {
